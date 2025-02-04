@@ -29,7 +29,7 @@
     <category>
         <pattern>WHAT IS YOUR NAME</pattern>
         <template>
-            I'm KID (Knowledge Interface Device), your smart home assistant! 
+            I'm KID (Krazy Ingenious Dude), your smart home assistant! 
             I can help control devices and answer general questions.
         </template>
     </category>
